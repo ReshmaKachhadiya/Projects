@@ -1,0 +1,139 @@
+
+
+/* .arrivals{
+	padding:4em 0;
+}
+.arrivals h3,.featured h3{
+	color:#00a0dc;
+	font-size:2.3em;
+	text-align:center;
+	font-family: 'JosefinSans-Bold';
+}
+.arrival-grids{
+	margin-top:2em;
+}
+.arrival-info{
+	margin-top:1em;
+}
+.arrival-info h4{
+	color:#caccce;
+	font-size:0.9em;
+	font-family: 'JosefinSans-Bold';
+	text-transform:uppercase;
+}
+.arrival-info p{
+	color:#000;
+	font-size:1em;
+	font-weight:600;
+	margin:10px 0 5px;
+}
+span.pric1{
+	color:#ADADAD;
+	font-size:0.95em;
+}
+span.disc{
+	color: rgba(7, 152, 40, 0.69);
+  font-size: 0.85em;
+}
+#flexiselDemo1, #flexiselDemo2, #flexiselDemo3 {
+	display:inline;
+}
+.nbs-flexisel-container {
+	position: relative;
+	max-width: 100%;
+}
+.nbs-flexisel-ul {
+	position: relative;
+	width: 9999px;
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	text-align: center;
+}
+.nbs-flexisel-inner {
+	overflow: hidden;
+}
+.nbs-flexisel-item {
+	float: left;
+	margin: 0px;
+	padding: 10px;
+	cursor: pointer;
+	position: relative;
+	border:1px solid #fff;
+}
+.nbs-flexisel-item > a img {	
+	cursor:auto;
+	position: relative;
+	  width: 90%;
+  margin: 0 5%;
+}
+.nbs-flexisel-nav-left, .nbs-flexisel-nav-right {
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	cursor: pointer;
+	z-index: 100;
+	margin-top:-2em;
+}
+.nbs-flexisel-nav-left {
+	left: -50px;
+	background: url(../images/img-sprite-left-right.png) no-repeat 0px 0px;
+}
+.nbs-flexisel-nav-right {
+	right: -47px;
+	background: url(../images/img-sprite-left-right.png) no-repeat -54px 0px;
+}
+.glyphicon {
+  top: 2px;
+  margin-right:5px;
+}
+.glyphicon-eye-open:before,.glyphicon-star:before {
+  color:rgba(149, 148, 148, 0.81);
+}
+.viw{
+  position: absolute;
+  background: #eee;
+  padding: 0.5em 1em;
+  font-size:.9em;
+  font-weight: 500;
+  top: 0%;
+  left: 0%;
+  display: none;
+}
+.viw:hover,.shrt:hover{
+	text-decoration:underline;
+}
+.viw a,.shrt a{
+	color:rgba(149, 148, 148, 0.81);
+}
+.viw a:hover,.shrt a:hover{
+	text-decoration:underline;
+}
+.shrt{
+  position: absolute;
+  background: #eee;
+  padding: 0.5em 1.5em;
+  font-size:.9em;
+  font-weight: 500;
+  top: 0%;
+  right: 0%;
+  display: none;
+}
+.nbs-flexisel-item{
+	position:relative;
+}
+li.nbs-flexisel-item:hover {
+  border: 1px solid #eee;
+}
+li.nbs-flexisel-item a:hover{
+	text-decoration:none;
+}
+.nbs-flexisel-item:hover div.viw{
+	display:block;
+}
+.nbs-flexisel-item:hover div.shrt{
+	display:block;
+}
+
+
+ */
